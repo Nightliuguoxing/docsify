@@ -7,6 +7,7 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <link href="https://cdn.bootcss.com/KaTeX/0.10.0/katex.min.css" rel="stylesheet">
 </head>
 <body>
   <nav>
@@ -41,7 +42,20 @@
       alias: {
         '/.*/_sidebar.md': '/_sidebar.md'
       },
-      search: 'auto'
+      search: 'auto',
+      markdown: {
+        renderer: {
+          code: function(code, lang) {
+            if (lang === "tex") {
+                return (
+                  '<span class="tex">'+ katex.renderToString(code, {
+                      throwOnError: false
+                  })+'</span>'
+                );
+            }
+          }
+        }
+      }
     }
   </script>
   <!-- Docsify v4 -->
@@ -51,6 +65,8 @@
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
+
+  <script src="https://cdn.bootcss.com/KaTeX/0.10.0/katex.min.js"></script>
 
   <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-bash.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-c.min.js"></script>
