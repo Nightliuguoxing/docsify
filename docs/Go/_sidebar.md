@@ -1,2 +1,0 @@
-
-* [Guide](go/guide)
