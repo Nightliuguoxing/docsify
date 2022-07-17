@@ -5,6 +5,8 @@
 * [数学建模](/Matlab/)
     * [U1-线性规划](/Matlab/M01)
     * [U2-整数规划](/Matlab/M02)
+    * [U3-非线性规划](/Matlab/M03)
+* [PyTorch](/PyTorch/)
 * [Go](/Go/)
     * [U1-一个程序](/Go/G01)
     * [U2-命名规则](/Go/G02)
