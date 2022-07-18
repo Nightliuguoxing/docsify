@@ -8,6 +8,8 @@
 * 后端框架: SpringBoot、JPA、Mybaits
 * 中间件: MySql、RabbitMQ、Redis、Mongodb、Elasticsearch、Flowable、SMS、OSS
 
+* 扩展学习: Python、Pytorch、OpenCV、Yolov7、Go、Solidity
+
 <br>
 
 <span id="busuanzi_container_site_pv" style='display:none'>

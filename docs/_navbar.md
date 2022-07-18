@@ -4,6 +4,5 @@
 * [数学建模](/Matlab/)
 * Java全栈
     * [Java全栈](/Java/)
-* Python
-    * [PyTorch](/PyTorch/)
+* [Python](/Python/)
 * [Go](/Go/)

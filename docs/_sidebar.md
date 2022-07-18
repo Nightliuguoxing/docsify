@@ -6,7 +6,7 @@
     * [U1-线性规划](/Matlab/M01)
     * [U2-整数规划](/Matlab/M02)
     * [U3-非线性规划](/Matlab/M03)
-* [PyTorch](/PyTorch/)
+* [Python](/Python/)
 * [Java](/Java/)
     * [U1-@LOG的使用](/Java/J01)
 * [Go](/Go/)
