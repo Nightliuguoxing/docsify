@@ -48,6 +48,9 @@
       'flexible-alerts': {
         style: 'flat'
       },
+      vegalite: {
+        actions: {editor: true, source: true, compiled: false} 
+      },
       markdown: {
         renderer: {
           code: function(code, lang, base = null) {
@@ -123,5 +126,12 @@
   <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-yaml.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-diff.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-matlab.min.js"></script>
+
+  <!-- import vega -->
+  <script src="//cdn.jsdelivr.net/npm/vega@5"></script>
+  <script src="//cdn.jsdelivr.net/npm/vega-lite@5"></script>
+  <script src="//cdn.jsdelivr.net/npm/vega-embed@6"></script>
+  <script src="//cdn.jsdelivr.net/gh/jerCarre/vega_docsify@v1.1/lib/docsivega.js"></script>  
+
 </body>
 </html>

@@ -20,3 +20,4 @@
 #### [ML05 - 代价函数](MachineL/ML05)
 #### [ML06 - 梯度下降](MachineL/ML06)
 #### [ML07 - 线性回归 + 梯度下降](MachineL/ML07)
+#### [ML08 - 矩阵向量](MachineL/ML08)
