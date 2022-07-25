@@ -27,6 +27,7 @@
     * [ML11-特征缩放](/MachineL/ML11)
     * [ML12-多项式回归](/MachineL/ML12)
     * [ML13-正规方程](/MachineL/ML13)
+    * [MLA1](/Machine/MLA1)
 * [Java](/Java/)
     * [J01-@LOG的使用](/Java/J01)
     * [J02-Redis的使用](/Java/J02)
