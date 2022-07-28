@@ -26,6 +26,9 @@
 #### [ML11 - 特征缩放](MachineL/ML11)
 #### [ML12 - 多项式回归](MachineL/ML12)
 #### [ML13 - 正规方程](MachineL/ML13)
+#### [ML14 - Octave基础操作](MachineL/ML14)
+#### [ML15 - Octave数据移动](MachineL/ML15)
+#### [ML16 - Octave计算数据](MachineL/ML16)
 
 ---
 
