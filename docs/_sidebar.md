@@ -27,9 +27,13 @@
     * [ML11-特征缩放](/MachineL/ML11)
     * [ML12-多项式回归](/MachineL/ML12)
     * [ML13-正规方程](/MachineL/ML13)
+
     * [ML14-Octave基础操作](/MachineL/ML14)
     * [ML15-Octave数据移动](/MachineL/ML15)
     * [ML16-Octave计算数据](/MachineL/ML16)
+    * [ML17-Octave数据绘制](/MachineL/ML17)
+    * [ML18-Octave控制语句](/MachineL/ML18)
+
     * [MLA1](/MachineL/MLA1)
     * [MLB1](/MachineL/MLB1)
 * [Java](/Java/)
