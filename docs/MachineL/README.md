@@ -34,6 +34,9 @@
 #### [ML18 - Octave控制语句](MachineL/ML18)
 #### [ML19 - Octave矢量转化](MachineL/ML19)
 
+#### [ML20 - 逻辑回归 - 分类](MachineL/ML20)
+#### [ML21 - 逻辑回归 - 假设陈述](MachineL/ML21)
+
 ---
 
 # 浙大 胡浩基

@@ -35,6 +35,9 @@
     * [ML18-Octave控制语句](/MachineL/ML18)
     * [ML19-Octave矢量转化](/MachineL/ML19)
 
+    * [ML20-逻辑回归分类](/MachineL/ML20)
+    * [ML21-逻辑回归假设陈述](/MachineL/ML21)
+
     * [MLA1](/MachineL/MLA1)
     * [MLB1](/MachineL/MLB1)
 * [Java](/Java/)
