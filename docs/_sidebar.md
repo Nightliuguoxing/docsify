@@ -45,8 +45,8 @@
     * [ML25-逻辑回归-高级优化](/MachineL/ML25)
     * [ML26-逻辑回归-多元分类](/MachineL/ML26)
 
-    * [MLA1](/MachineL/MLA1)
-    * [MLB1](/MachineL/MLB1)
+    * [MLA](/MachineL/MLA)
+    * [MLB](/MachineL/MLB)
 * [Java](/Java/)
     * [J01-@LOG的使用](/Java/J01)
     * [J02-Redis的使用](/Java/J02)
