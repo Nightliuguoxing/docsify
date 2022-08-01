@@ -46,6 +46,11 @@
 
 ---
 
+#### [ML27 - 正则化 - 过拟合问题](MachineL/ML27)
+#### [ML28 - 正则化 - 代价函数](MachineL/ML28)
+#### [ML29 - 正则化 - 线性回归](MachineL/ML29)
+#### [ML30 - 正则化 - 逻辑回归](MachineL/ML30)
+
 # 浙大 胡浩基
 
 #### [MLA](MachineL/MLA)
