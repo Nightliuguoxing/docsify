@@ -13,6 +13,8 @@
     * [P003-数据类型](/Python/P003)
     * [P004-运算符号](/Python/P004)
     * [P005-输入输出](/Python/P005)
+* [Yolo](/Yolo/)
+    * [Y001-深度学习经典检测方法概述](/Yolo/Y001)
 * [机器学习](/MachineL/)
     * [ML01-机器学习](/MachineL/ML01)
     * [ML02-监督学习](/MachineL/ML02)
