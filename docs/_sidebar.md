@@ -52,6 +52,11 @@
     * [ML29 - 正则化 - 线性回归](/MachineL/ML29)
     * [ML30 - 正则化 - 逻辑回归](/MachineL/ML30)
 
+    * [ML31 - 神经网络 - 非线性假设](/MachineL/ML31)
+    * [ML32 - 神经网络 - 神经元与大脑](/MachineL/ML32)
+    * [ML33 - 神经网络 - 模型展示](/MachineL/ML33)
+    * [ML34 - 神经网络 - 例子与直觉理解](/MachineL/ML34)
+
     * [MLA](/MachineL/MLA)
     * [MLB](/MachineL/MLB)
 * [Java](/Java/)
