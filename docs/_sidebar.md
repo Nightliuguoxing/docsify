@@ -7,6 +7,7 @@
     * [M02-整数规划](/Matlab/M02)
     * [M03-非线性规划](/Matlab/M03)
     * [M04-二次规划](/Matlab/M04)
+    * [M06-灰色预测](/Matlab/M06)
 * [Python](/Python/)
     * [P001-注释说明](/Python/P001)
     * [P002-变量说明](/Python/P002)
@@ -56,6 +57,7 @@
     * [ML32 - 神经网络 - 神经元与大脑](/MachineL/ML32)
     * [ML33 - 神经网络 - 模型展示](/MachineL/ML33)
     * [ML34 - 神经网络 - 例子与直觉理解](/MachineL/ML34)
+    * [ML35 - 神经网络 - 多元分类](/MachineL/ML35)
 
     * [MLA](/MachineL/MLA)
     * [MLB](/MachineL/MLB)
