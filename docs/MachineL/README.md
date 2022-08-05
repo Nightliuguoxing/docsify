@@ -58,6 +58,10 @@
 #### [ML33 - 神经网络 - 模型展示](MachineL/ML33)
 #### [ML34 - 神经网络 - 例子与直觉理解](MachineL/ML34)
 #### [ML35 - 神经网络 - 多元分类](MachineL/ML35)
+#### [ML36 - 神经网络 - 代价函数](MachineL/ML36)
+#### [ML37 - 神经网络 - 反向传播算法](MachineL/ML37)
+#### [ML38 - 神经网络 - 理解反向传播](MachineL/ML38)
+#### [ML39 - 神经网络 - 展开参数](MachineL/ML39)
 
 
 # 浙大 胡浩基
