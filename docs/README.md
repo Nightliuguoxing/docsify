@@ -2,7 +2,7 @@
 
 !> 学习路线
 
-1. 吴恩达机器学习$\begin{pmatrix} \frac{42}{112} \end{pmatrix}$，《神经网络与深度学习》
+1. 吴恩达机器学习$\begin{pmatrix} \frac{58}{112} \end{pmatrix}$，《神经网络与深度学习》
 2. 吴恩达深度学习，李宏毅机器学习（部分），浙大胡浩基机器学习$\begin{pmatrix} \frac{19}{113} \end{pmatrix}$  
 3. 统计学习方法，白板推导
 4. 北理工数据分析，菜鸟教程

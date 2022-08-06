@@ -62,6 +62,10 @@
 #### [ML37 - 神经网络 - 反向传播算法](MachineL/ML37)
 #### [ML38 - 神经网络 - 理解反向传播](MachineL/ML38)
 #### [ML39 - 神经网络 - 展开参数](MachineL/ML39)
+#### [ML40 - 神经网络 - 梯度检测](MachineL/ML40)
+#### [ML41 - 神经网络 - 随机初始化](MachineL/ML41)
+#### [ML42 - 神经网络 - 组合一块](MachineL/ML42)
+#### [ML43 - 神经网络 - 无人驾驶](MachineL/ML43)
 
 
 # 浙大 胡浩基
