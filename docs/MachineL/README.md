@@ -67,6 +67,16 @@
 #### [ML42 - 神经网络 - 组合一块](MachineL/ML42)
 #### [ML43 - 神经网络 - 无人驾驶](MachineL/ML43)
 
+---
+
+### [ML44 - 优化 - 下一步](MachineL/ML44)
+### [ML45 - 优化 - 评估假设](MachineL/ML45)
+### [ML46 - 优化 - 模型选择和训练、验证、测试集](MachineL/ML46)
+### [ML47 - 优化 - 诊断偏差和方差](MachineL/ML47)
+### [ML48 - 优化 - 正则化和偏差、方差](MachineL/ML48)
+### [ML49 - 优化 - 学习曲线](MachineL/ML49)
+### [ML50 - 优化 - 下一步](MachineL/ML50)
+
 
 # 浙大 胡浩基
 
